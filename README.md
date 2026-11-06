@@ -12,7 +12,7 @@ The application detects a broad dataset domain from column names and uses the av
 
 ## Project Workflow
 
-![Automated ETL Project Workflow](assets/images/workflow diagram.png)
+![Automated ETL Project Workflow](Assets/Images/Automated ETL Dashboard Workflow.png)
 
 ## Features
 
