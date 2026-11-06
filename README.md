@@ -187,10 +187,10 @@ Open the local URL displayed in the terminal, usually `http://localhost:8501`.
 
 ## Author
 
-- **Name:** Add your name
+- **Name:** Karthik Kasakani
 - **GitHub:** [KarthikKasakani2004](https://github.com/KarthikKasakani2004)
 - **Project Repository:** [Automated-ETL-Dashboard-System](https://github.com/KarthikKasakani2004/Automated-ETL-Dashboard-System)
-- **LinkedIn:** Add your LinkedIn profile URL
+- **LinkedIn:** https://www.linkedin.com/in/karthik-kasakani
 
 ## License
 
