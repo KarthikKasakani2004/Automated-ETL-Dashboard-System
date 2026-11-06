@@ -1,0 +1,13 @@
+# Core application and data analysis
+streamlit
+pandas
+numpy
+plotly
+
+# Excel file reading support
+openpyxl
+xlrd
+
+# Optional report export features used by app.py
+reportlab
+python-pptx
