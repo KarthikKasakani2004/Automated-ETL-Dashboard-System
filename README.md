@@ -12,7 +12,7 @@ This project combines data preparation, validation, exploration, visualization, 
 
 **Upload Data → Data Overview → Data Cleaning → Data Quality Validation → Explore & Analyze → Data Visualizations → Interactive Dashboard → Findings & Export Reports**
 
-![Automated ETL Project Workflow](Assets/Images/Automated%20ETL%20Dashboard%20WorkFlow.png)
+![Automated ETL Project Workflow](Assets/Images/workflow_diagram.png)
 
 ## Key Features
 
